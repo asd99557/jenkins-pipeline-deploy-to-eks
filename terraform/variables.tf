@@ -5,7 +5,7 @@ variable "region_number" {
   # Arbitrary mapping of region name to number to use in
   # a VPC's CIDR prefix.
   default = {
-    us-east-1      = 1a
-    us-east-2      = 1b
+    us-east-1      = 1
+    us-east-2      = 1
   }
   }
